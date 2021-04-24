@@ -21,4 +21,3 @@ while t > 0:
 
 for i in pos_list:
     print(i)
-
